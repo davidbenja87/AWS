@@ -7,3 +7,6 @@ AWS IAM policy
 
 ![image](https://user-images.githubusercontent.com/38088886/146385267-cc68ef5a-14e1-4550-9c19-ff52a6b27ecb.png)
 
+![image](https://user-images.githubusercontent.com/38088886/146385629-d42a7b01-7dd0-4dc8-926d-a6b142553077.png)
+
+
