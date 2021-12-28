@@ -23,3 +23,8 @@ AWS Secuirty tool
 ![image](https://user-images.githubusercontent.com/38088886/147544159-2a8d8944-9e71-401f-a61c-14d3b4ddeaaa.png)
 
 
+EC2
+
+![image](https://user-images.githubusercontent.com/38088886/147548492-70cc2cd0-9f6f-480c-a124-af05800cba15.png)
+
+
