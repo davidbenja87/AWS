@@ -10,3 +10,9 @@ AWS IAM policy
 ![image](https://user-images.githubusercontent.com/38088886/146385629-d42a7b01-7dd0-4dc8-926d-a6b142553077.png)
 
 
+AWS Role
+
+![image](https://user-images.githubusercontent.com/38088886/147541751-50899377-f197-49b5-8a21-cb63ad21ed71.png)
+
+
+
