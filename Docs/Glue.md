@@ -14,7 +14,7 @@ spark = glueContext.spark_session
 job = Job(glueContext)
 ``` 
 # Examine the schema for glue code
-``` 
+```python 
 persons = glueContext.create_dynamic_frame.from_catalog(
              database="poc-benji",
              table_name="reciept")
